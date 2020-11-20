@@ -1,0 +1,153 @@
+.logo{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 0px;
+    }
+
+body{
+    background-color: #ffdbc5;
+    background-image: url('../IMAGES/rose.jpg');
+    background-size: 100%;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Header{
+    margin-top: 0px;
+    height: 10%;
+    background-color: #7ac8ce;
+ }
+
+h1{
+    margin-top: 0px;
+    display: block;
+}
+
+h2{
+    color: darkgrey;
+}
+
+a{
+    color: darkgrey;
+}
+
+.Highlights{
+    background-color: #7ac8ce;
+}
+
+.stamp{
+    float: left;
+    height: 150px;
+    width: 150px;
+    position: relative ;
+    top: -10px;
+}
+
+.Highlights h1{
+    position: relative;
+    font-family: 'Laila', serif;
+    font-size: 32px;
+}
+
+.back{
+    display: block;
+    padding-bottom: 20px;
+    font-family: 'Laila', serif;
+    
+}
+
+.backlink{
+    color: #cf1b1b;
+}
+
+.buttons a {
+    color: #cf1b1b;
+}
+
+.Header h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Laila', serif;
+    font-size: 32px;
+}
+
+.Header a {
+    padding-top: 20px;
+    padding-right: 50px;
+    margin-bottom: 150px;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size: xx-large;  
+    color: #ffc8c8; 
+}
+
+.Header h3{
+    font-family: 'Laila', serif;
+}
+
+.contacthead{
+    margin-top: 0px;
+    height: 10%;
+    background-color: #7ac8ce;
+}
+
+.contacthead h1{
+    font-family: 'Laila', serif;
+    margin: 0px;
+}
+
+.socials h3{
+    font-family: 'Laila', serif;
+}
+
+.socials a{
+    color: #cf1b1b;
+}
+
+.label{
+    font-size: 32px;
+}
+
+.buttons h3{
+    display: block;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Laila', serif;
+}
+
+.mic{
+    float: left;
+    height: 13%;
+    width: 13%;
+}
+
+.carousel-inner {
+    left: 37%;
+}
+
+.link{
+    text-align: center;
+}
+
+.carousel-caption{
+    bottom: -30%;
+    left: -46%;
+    display: inline;
+}
+
+.intro{
+    color: rgb(221, 255, 255);
+}
+
+#Test{
+    margin-top: 0px;
+    height: 10%;
+    background-color: #7ac8ce;
+}
